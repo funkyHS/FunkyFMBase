@@ -1,0 +1,50 @@
+{
+  "name": "FunkyFMBase",
+  "version": "0.1.0",
+  "summary": "FunkyFMBase",
+  "description": "FunkyFMBase 基础组件，包含分类，工具类，网络相关",
+  "homepage": "https://github.com/funkyHS/FunkyFMBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "funkyHS": "hs1024942667@163.com"
+  },
+  "source": {
+    "git": "https://github.com/funkyHS/FunkyFMBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "subspecs": [
+    {
+      "name": "Base",
+      "source_files": "FunkyFMBase/Classes/Base/**/*"
+    },
+    {
+      "name": "Category",
+      "source_files": "FunkyFMBase/Classes/Category/**/*"
+    },
+    {
+      "name": "Network",
+      "source_files": "FunkyFMBase/Classes/Network/**/*",
+      "dependencies": {
+        "AFNetworking": [
+
+        ],
+        "SDWebImage": [
+
+        ],
+        "FunkyFMBase/Category": [
+
+        ]
+      }
+    },
+    {
+      "name": "Tool",
+      "source_files": "FunkyFMBase/Classes/Tool/**/*"
+    }
+  ]
+}
