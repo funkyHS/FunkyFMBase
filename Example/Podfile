@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FunkyFMBase_Example' do
+  pod 'FunkyFMBase', :path => '../'
+
+  target 'FunkyFMBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
