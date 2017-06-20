@@ -24,6 +24,7 @@
 #import "HSAlertTool.h"
 #import "HSCacheTool.h"
 #import "HSDeviceMessage.h"
+#import "HSFileTool.h"
 
 FOUNDATION_EXPORT double FunkyFMBaseVersionNumber;
 FOUNDATION_EXPORT const unsigned char FunkyFMBaseVersionString[];

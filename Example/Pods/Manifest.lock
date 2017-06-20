@@ -14,18 +14,18 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - FunkyFMBase (0.1.1):
-    - FunkyFMBase/Base (= 0.1.1)
-    - FunkyFMBase/Category (= 0.1.1)
-    - FunkyFMBase/Network (= 0.1.1)
-    - FunkyFMBase/Tool (= 0.1.1)
-  - FunkyFMBase/Base (0.1.1)
-  - FunkyFMBase/Category (0.1.1)
-  - FunkyFMBase/Network (0.1.1):
+  - FunkyFMBase (0.1.2):
+    - FunkyFMBase/Base (= 0.1.2)
+    - FunkyFMBase/Category (= 0.1.2)
+    - FunkyFMBase/Network (= 0.1.2)
+    - FunkyFMBase/Tool (= 0.1.2)
+  - FunkyFMBase/Base (0.1.2)
+  - FunkyFMBase/Category (0.1.2)
+  - FunkyFMBase/Network (0.1.2):
     - AFNetworking
     - FunkyFMBase/Category
     - SDWebImage
-  - FunkyFMBase/Tool (0.1.1)
+  - FunkyFMBase/Tool (0.1.2)
   - SDWebImage (4.0.0):
     - SDWebImage/Core (= 4.0.0)
   - SDWebImage/Core (4.0.0)
@@ -39,7 +39,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  FunkyFMBase: 886409fcbcf6e36f448b33a0edacdc06980cf151
+  FunkyFMBase: 43c2e8c52ed7076627192287153f665b875d40da
   SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
 
 PODFILE CHECKSUM: ba87cf4d2b57d02a44ba42a7f1b8c7a5338be699

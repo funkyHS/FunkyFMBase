@@ -1,6 +1,6 @@
 {
   "name": "FunkyFMBase",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "FunkyFMBase",
   "description": "FunkyFMBase 基础组件，包含分类，工具类，网络相关",
   "homepage": "https://github.com/funkyHS/FunkyFMBase",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/funkyHS/FunkyFMBase.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
